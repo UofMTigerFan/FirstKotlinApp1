@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"It sends a message and opens an activity"</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
